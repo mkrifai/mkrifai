@@ -123,8 +123,8 @@ My current professional and scientific direction sits at the intersection of:
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mkrifai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mkrifai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mkrifai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrifai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="165" />
   </p>
 </div>
 
